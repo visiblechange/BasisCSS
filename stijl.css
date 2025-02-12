@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS stylesheet */
+body {background-color: khaki;
+}
+h1 {font-family: Calibri; 
+    size: 30px; 
+    color: blue;
+}
+h2 {font-family: 'Times New Roman', Times, serif; 
+    size: 30px; 
+    color: rgb(255, 187, 0);
+}
