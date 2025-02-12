@@ -1,20 +1,20 @@
 @charset "utf-8";
 /* CSS stylesheet */
-body {background-color: khaki;
+body { background-color: khaki;
 }
 h1 {font-family: Calibri; 
     font-size: 30px; 
     color: blue;
 }
 h2 {font-family: 'Times New Roman', Times, serif; 
-    font-size: 32px; 
+    font-size: 1.6rem; 
     color: rgb(255, 187, 0);
 }
 h2::first-letter {font-family: 'Times New Roman', Times, serif; 
-    font-size: 45px; 
+    font-size: 2rem; 
     color: rgb(255, 187, 0);
 }
 p {font-family: Arial; 
-    font-size: 18px; 
+    font-size: 1.2rem; 
     color: rgb(49, 113, 0);
 }
